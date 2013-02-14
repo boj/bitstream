@@ -9,7 +9,7 @@ A message gets constructed like the following:
     [total message length]  - 4 bytes
       [byte][value]         - 1 byte + 1 byte
       [int32][value]        - 1 byte + 4 bytes
-      [float64][value]      - 1 byte + 4 bytes
+      [float32][value]      - 1 byte + 4 bytes
       [bool (int8)][value]  - 1 byte + 1 byte
       [string][size][value] - 1 byte + 4 bytes + N bytes
       ...

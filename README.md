@@ -8,7 +8,7 @@ A simple library for sending byte data across the wire.
 
 ## Usage
 
-See the inline source docs, or view them with godoc.
+View the docs at [godoc.org](http://godoc.org/github.com/boj/bitstream).
 
 ## Author
 
